@@ -4,10 +4,6 @@ ICS 3204 Computer Graphics semester project. An interactive application that wal
 how our picture of the hydrogen atom changed, and renders every step with graphics
 algorithms we implemented ourselves.
 
-Inspired by [kavan010/Atoms](https://github.com/kavan010/Atoms). This is an independent,
-lightweight re-implementation (no code copied): it targets integrated GPUs and runs at the
-display's refresh rate on an Intel Iris Xe laptop. The expensive ray-traced renderer of the
-original is deliberately left out — see *Scope* below.
 
 ## The four stages (press 1–4)
 
